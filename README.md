@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subash</h1>
 <h3 align="center">Web Developer</h3>
-<img align="right" width="360" src="./codingGify.gif" alt="animated-gif"/>
+<img align="right" width="320" src="./codingGify.gif" alt="animated-gif"/>
 - 👯 **I'm open to collaborating with fellow developers on projects that involve learning and experimenting with new technologies and frameworks.**
 
 - 💬 Ask me about **React,Redux,Javascript,Typescript,Front-end architecture, Library & framework selection**
